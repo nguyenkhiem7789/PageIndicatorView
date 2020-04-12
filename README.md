@@ -24,7 +24,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.nguyenkhiemit:PageIndicatorView:0.1.3'
+	        implementation 'com.github.nguyenkhiem7789:PageIndicatorView:0.1.0'
 	}
 	
 Usage
