@@ -1,5 +1,6 @@
 # PageIndicatorView
 
+<img src="https://user-images.githubusercontent.com/18132015/79177862-f2c75800-7e2d-11ea-9b23-dcd3ca40e23d.jpg" width="300">
 
 How to
 
