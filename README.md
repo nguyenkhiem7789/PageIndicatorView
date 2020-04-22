@@ -45,5 +45,5 @@ XML:
 
 Java:
 
-  indicatorView.setViewPager(viewPager); //make sure that adapter had added to viewpager
+	indicatorView.setViewPager(viewPager); //make sure that adapter had added to viewpager
 
